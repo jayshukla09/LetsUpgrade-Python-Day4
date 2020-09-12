@@ -12,3 +12,5 @@ for i in range(1042000, 702648265):
         i=i//10
     if num==result:
         print(num)
+        break
+    
